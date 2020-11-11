@@ -1,5 +1,3 @@
-Find the number!
-
 Given an unsorted array of n elements, find if the element k is present in the array or not.
 Complete the findNumber function in the editor below. It has 2 parameters:
 An array of integers, arr, denoting the elements in the array.
